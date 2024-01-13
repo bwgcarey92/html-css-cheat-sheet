@@ -1,0 +1,48 @@
+* {
+    background-color: papayawhip;
+  }
+  
+  #banner {
+    text-align: center;
+    font-family: Bebas Neue;
+    color: palevioletred;
+  }
+  
+  #banner h1 {
+    font-size: 32px;
+    font-weight: bold;
+  }
+  
+  #banner p {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  #table1 {
+    padding: 20px;
+    margin: 10px;
+    font-family: Syne Mono;
+    
+  }
+  
+  th {
+    text-decoration: underline;
+    color: lightgreen;
+  }
+  
+  td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: firebrick;
+   }
+  
+   th, td {
+    background-color: black;
+   }
+  
+  #table2 {
+    padding: 20px;
+    margin: 10px;
+    font-family: Syne Mono;
+  }
+  
